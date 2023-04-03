@@ -16,7 +16,7 @@
 void print_usage(char *progname)
 {
     printf("%s usage: \n", progname);
-    printf("-i(--ipaddr): sepcify server IP address.\n", progname);
+    printf("-i(--ipaddr): sepcify server IP address.\n");
     printf("-p(--port): sepcify server port.\n");
     printf("-h(--help): print help informatiom.\n");
 
